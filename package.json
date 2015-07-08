@@ -1,0 +1,22 @@
+{
+  "name": "BeanstalkdTest",
+  "version": "0.0.0",
+  "description": "Beanstalkd Node Demo Application ===",
+  "main": "app.js",
+  "dependencies": {
+    "nodestalker": "^0.1.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slowmove/beanstalkd-Node-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slowmove/beanstalkd-Node-Demo/issues"
+  }
+}
